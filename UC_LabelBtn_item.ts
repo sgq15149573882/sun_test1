@@ -3,7 +3,7 @@
  * @Date:   2020-08-04 18:01:16
 <<<<<<< Updated upstream
  * @Last Modified by:   Your name
- * @Last Modified time: 2020-08-09 14:09:10
+ * @Last Modified time: 2020-08-09 14:29:24
 =======
  * @Last Modified by:   Your name
  * @Last Modified time: 2020-08-08 18:01:00
@@ -61,6 +61,9 @@ export default class UC_LabelBtn_item extends UIBase {
 
 	}
 
+	function3() {
+		
+	}
 	onClose() {
 		UIHelper.CloseUI(UC_LabelBtn_item);
 	}
