@@ -42,7 +42,7 @@ export default class UC_LabelBtn_item extends UIBase {
 	}
 
 	onShow() {
-
+		console.log("远端");
 	}
 
 	onHide() {
